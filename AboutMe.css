@@ -1,5 +1,31 @@
 h1 { 
 
-    color: Blue; 
+    color: rgb(25, 142, 238); 
+    font-family: 'Times New Roman', Times, serif;
+    border-width: 5px;
+    border-color: rgb(4, 163, 12);
+    border-style: dashed;
+    text-align: center;
+    margin: 100px 20px;
+    padding: 50px;
     
+}
+
+.first {
+
+    background-color: pink;
+
+}
+
+.second {
+
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#third {
+
+    border: 2px red dotted;
+    font-family: 'Courier New', Courier, monospace
+
 }
