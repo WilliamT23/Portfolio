@@ -1,0 +1,106 @@
+div {
+
+background-color: blue;
+height: 200px;
+width: 200px;
+
+}
+
+.second {
+
+box-align: center;
+background-color: rgb(236, 103, 103);
+height: 200px;
+width: 200px;
+
+
+}
+
+.third {
+
+box-align: bottom;
+background-color: aquamarine;
+height: 200px;
+width: 200px;
+
+
+}
+
+.fourth {
+
+position: relative;
+bottom: 200px;
+left: 200px;
+background-color: rgb(167, 126, 51);
+height: 200px;
+width: 200px;
+
+}
+
+.fifth {
+
+position: relative;
+bottom: 600px;
+left: 200px; 
+background-color: rgb(56, 179, 56);
+height: 200px;
+width: 200px;
+
+
+
+}
+
+.sixth {
+
+position: relative;
+bottom: 800px;
+left: 200px;
+background-color: navy;
+height: 200px;
+width: 200px;
+
+}
+
+.seventh {
+
+    position: relative;
+    bottom: 1200px;
+    left: 200px;
+    background-color: khaki;
+    height: 200px;
+    width: 200px;
+
+}
+
+.eighth {
+
+    position: relative;
+    bottom: 1400px;
+    left: 400px;
+    background-color: steelblue;
+    height: 200px;
+    width: 200px;
+
+}
+
+.nineth {
+
+    position: relative;
+    bottom: 1400px;
+    left: 400px;
+    background-color: chocolate;
+    height: 200px;
+    width: 200px;
+
+}
+
+.tenth {
+
+    position: relative;
+    bottom: 1400px;
+    left: 400px;
+    background-color: burlywood;
+    height: 200px;
+    width: 200px;
+
+}
