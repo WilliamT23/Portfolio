@@ -1,14 +1,14 @@
 h1 {
 
     text-align: center;
-    padding: 10px;
-    margin: 50px 100px;
+    color: black;
 
 }
 
 h2 {
 
     text-align: center;
+    color: white;
 
 
 }
@@ -16,14 +16,9 @@ h2 {
 .start {
 
     padding: 10px;
-    border: 10px rgb(226, 214, 102) solid;
-    background-color: rgb(226, 214, 102));
+    border: 5px rgb(255, 255, 255) solid;
     
-
-
 }
-
-
 
 h4 {
 
@@ -48,8 +43,9 @@ h3 {
 
 body {
 
-    background-color: rgb(255, 255, 255) ;
-
+    background-color: rgb(125, 186, 255) ;
+    border: 5px white solid;
+    padding: 2px;
 
 }
 
@@ -62,8 +58,30 @@ body {
 
 img {
 
-    text-align: center;
-    height: 400px;
-    width: 600px;
+    border: 5px white solid;
+    height: 300px;
+    width: 500px;
+
+}
+
+.bunker {
+
+    border: green;
+
+    //Help?
+
+}
+
+.history {
+
+    color: black;
+
+}
+
+.life {
+
+    padding: 10px;
+    margin: 50px 100px;
+
 
 }
