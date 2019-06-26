@@ -14,10 +14,8 @@ h1 {
 .first {
 
     background-color: pink;
-    border: 2px pink solid;
-    height: 200px;
-    width: 200px;
-
+    border: 2px rgb(255, 0, 43) dotted;
+   
 }
 
 .second {
@@ -44,5 +42,11 @@ p {
 div {
 
     border: 5px gold solid;
+
+}
+
+.firstt {
+
+    text-align: center;
 
 }

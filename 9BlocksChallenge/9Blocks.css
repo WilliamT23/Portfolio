@@ -1,6 +1,6 @@
 div {
 
-background-color: blue;
+background-color: rgb(124, 159, 253);
 height: 200px;
 width: 200px;
 
@@ -35,22 +35,10 @@ background-color: rgb(167, 126, 51);
 height: 200px;
 width: 200px;
 
+
 }
 
 .fifth {
-
-position: relative;
-bottom: 600px;
-left: 200px; 
-background-color: rgb(56, 179, 56);
-height: 200px;
-width: 200px;
-
-
-
-}
-
-.sixth {
 
 position: relative;
 bottom: 800px;
@@ -64,7 +52,7 @@ width: 200px;
 .seventh {
 
     position: relative;
-    bottom: 1200px;
+    bottom: 800px;
     left: 200px;
     background-color: khaki;
     height: 200px;
@@ -75,7 +63,7 @@ width: 200px;
 .eighth {
 
     position: relative;
-    bottom: 1400px;
+    bottom: 1000px;
     left: 400px;
     background-color: steelblue;
     height: 200px;
@@ -88,7 +76,7 @@ width: 200px;
     position: relative;
     bottom: 1400px;
     left: 400px;
-    background-color: chocolate;
+    background-color: rgb(218, 135, 76);
     height: 200px;
     width: 200px;
 
@@ -97,7 +85,7 @@ width: 200px;
 .tenth {
 
     position: relative;
-    bottom: 1400px;
+    bottom: 1200px;
     left: 400px;
     background-color: burlywood;
     height: 200px;

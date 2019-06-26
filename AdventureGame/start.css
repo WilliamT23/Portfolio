@@ -1,0 +1,69 @@
+h1 {
+
+    text-align: center;
+    padding: 10px;
+    margin: 50px 100px;
+
+}
+
+h2 {
+
+    text-align: center;
+
+
+}
+
+.start {
+
+    padding: 10px;
+    border: 10px rgb(226, 214, 102) solid;
+    background-color: rgb(226, 214, 102));
+    
+
+
+}
+
+
+
+h4 {
+
+    text-align: right;
+
+
+}
+
+.second {
+
+    text-align: center
+
+
+}
+
+h3 {
+
+    text-align: center;
+    line-height: 50px;
+
+}
+
+body {
+
+    background-color: rgb(255, 255, 255) ;
+
+
+}
+
+.boom {
+
+    padding: 10px 20px;
+    text-align: center;
+
+}
+
+img {
+
+    text-align: center;
+    height: 400px;
+    width: 600px;
+
+}
