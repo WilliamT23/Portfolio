@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+    <head>
+
+        <link rel="stylesheet" type="text/css" href="GuessingGame.css">
+        <Title> Guessing Game </Title>
+
+    </head>
+
+<html>
+
+    <script>
+    //variables
+    var turns = 5;
+    var hint = "You Guessed Too Low! ";
+    var hint = "You Guessed Too High! ";
+    var randomNumber = Math.floor(Math.random()*20);
+    hint = "Guess The Number Between 1 - 20! ";
+
+        
+    while (turns >= 1) {   
+        
+        var guess = prompt ( hint + "You Have " + turns + " Turn Left!"); //You Have " + turns + " Turn Left!");
+        
+        if (guess < randomNumber) { 
+        hint = ' You Guessed Too Low!'; 
+        
+        }
+        
+        else if (guess > randomNumber){
+        hint = ' You Guessed Too High!';  
+
+        }
+
+        //var guess = prompt ( hint + " You Have " + turns + " Turn Left!");
+        turns--;     
+
+        if (guess == randomNumber) {
+            
+            document.write ("<h1> You Win! </h1> <p> The Correct Random Number Was " + randomNumber + "<p>" );
+            flag = false; 
+            
+            /*if (turns = 0){
+
+                document.write ("<h1> You Win! </h1> <p> The Correct Random Number Was " + randomNumber + "<p>" ); 
+
+            }*/
+        }
+
+        if (turns == 0) {
+            
+            document.write ("<h1> You Lose! </h1> <p> The Random Number Was " + randomNumber + " </p>");
+            
+        }    
+            
+    }
+        
+    </script>
+
+
+
+</html>

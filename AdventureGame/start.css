@@ -9,15 +9,15 @@ h2 {
 
     text-align: center;
     color: white;
-
-
+    padding: 10px;
+    margin: 15px 50px;
 }
 
-.start {
+h3 {
 
-    padding: 10px;
-    border: 5px rgb(255, 255, 255) solid;
-    
+    text-align: center;
+    line-height: 50px;
+
 }
 
 h4 {
@@ -31,14 +31,6 @@ h4 {
 
     text-align: center
 
-
-}
-
-h3 {
-
-    text-align: center;
-    line-height: 50px;
-
 }
 
 body {
@@ -46,17 +38,18 @@ body {
     background-color: rgb(125, 186, 255) ;
     border: 5px white solid;
     padding: 2px;
+    height: 750px;
 
 }
 
 .boom {
 
-    padding: 10px 20px;
+
     text-align: center;
 
 }
 
-img {
+.img {
 
     border: 5px white solid;
     height: 300px;
@@ -74,14 +67,44 @@ img {
 
 .history {
 
-    color: black;
+    padding: 10px;
+    margin: 50px 50px;
 
 }
 
 .life {
 
     padding: 10px;
+    margin: 50px 50px;
+
+}
+
+.alive {
+
+    padding: 10px;
+    margin: 50px 50px;
+
+
+}
+
+.start {
+
+    padding: 5px;
+    margin: 30px 100px;
+    background-color: white;
+
+}
+
+.space {
+
+    padding: 10px;
     margin: 50px 100px;
 
+}
+
+.oof {
+
+    padding: 10px;
+    margin: 50px 100px;
 
 }
