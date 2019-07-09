@@ -28,8 +28,29 @@ changeHeader();
 // 3. "DRY" your code out by making a function
 
 //Function comes with the name "Function" first. Then comes the name of the function you call it like "changeHeader" Then comes the parentheses and the brackets. In order to delare it, you would put the name and the parentheses like "changeHeader." 
+
 function changeHeader () {
 
     document.querySelector('#value').innerHTML = value.toString()
 
 }
+
+/*let value = 0;
+
+function change(sign) {
+
+    if (sign == "add") {
+
+        value++
+        document.querySelector('#value').innerHTML = value.toString()
+
+    }
+
+    else {
+
+        value--
+        document.querySelector('#value').innerHTML = value.toString()
+
+    }*/
+
+ 
