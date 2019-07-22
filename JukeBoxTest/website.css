@@ -1,6 +1,6 @@
 body {
 
-    background-color: white
+    background-color: lightgreen;
 
 }
 
@@ -576,5 +576,23 @@ body {
 
     margin: 1px 575px;
     border-radius: 25px;
+
+}
+
+/* .artistttt {
+
+    margin: 1px 210px;
+    border-radius: 50px;
+    height: 250px;
+    width: 400px;
+
+} */
+
+.artisttttt {
+
+    margin: 1px 1075px;
+    border-radius: 20px;
+    height: 250px;
+    width: 300px;
 
 }

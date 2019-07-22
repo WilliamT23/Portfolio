@@ -395,7 +395,6 @@ if (currentArtist == "lionelRichie") {
 
         var divNode = document.createElement("div");
         
-
         var audioNode = document.createElement("AUDIO");
         audioNode.setAttribute("controls", "controls")
 
