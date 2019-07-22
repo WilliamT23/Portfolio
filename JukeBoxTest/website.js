@@ -322,62 +322,62 @@ var pilotsSongs = ["Stressed Out", "Lane Boy", "Heavydirtysoul", "Goner"];
 var shawn = ["../JukeBoxSongs/Shawn Mendes - Bring It Back (Audio).mp3", "../JukeBoxSongs/Shawn Mendes - I Don't Even Know Your Name (Audio).mp3", "../JukeBoxSongs/Shawn Mendes - Never Be Alone (Audio).mp3", "../JukeBoxSongs/Shawn Mendes - Show You (Audio).mp3"];
 var shawnSongs = ["Bring It Back", "I Don't Know Your Name", "Never Be Alone", "Show You"];
 
-var future = [];
-var futureSongs = [];
+var future = ["../JukeBoxSongs/Kno The Meaning.mp3", "../JukeBoxSongs/Slave Master.mp3", "../JukeBoxSongs/DRAKE FEAT FUTURE PLASTIC BAG (OFFICIAL AUDIO).mp3", "../JukeBoxSongs/Colossal.mp3"];
+var futureSongs = ["Kno The Meaning", "Slave Master", "Drake - Plastic Bags ft. Future", "Colossal"];
 
-var bruce = [];
-var bruceSongs = [];
+var bruce = ["../JukeBoxSongs/Born in the U.S.A..mp3", "../JukeBoxSongs/Glory Days.mp3", "../JukeBoxSongs/War (Live at LA Coliseum, Los Angeles, CA - September 1985).mp3", "../JukeBoxSongs/This Land is Your Land (Live at Nassau Coliseum, Uniondale, NY - December 1980).mp3"];
+var bruceSongs = ["Born in the U.S.A", "Glory Days", "War (Live)", "This is Your Land (Live)"];
 
 //2017
 
-var bts = [];
-var btsSongs = [];
+var bts = ["../JukeBoxSongs/Go Go.mp3", "../JukeBoxSongs/BTS - Come Back Home (Color Coded HanRomEng Lyrics) correction in subs.mp3", "../JukeBoxSongs/Spring Day.mp3", "../JukeBoxSongs/Pied Piper.mp3"];
+var btsSongs = ["Go Go", "Come Back Home", "Spring Day", "Pied Piper"];
 
-var astro = [];
-var astroSongs = [];
+var astro = ["../JukeBoxSongs/ASTRO (아스트로) - ALWAYS YOU (너잖아) LYRICS (Color Coded EngRomHan가사).mp3",  "../JukeBoxSongs/ASTRO (아스트로) - All Night (전화해)('The 1st Album'[All Light]).mp3", "../JukeBoxSongs/ASTRO (아스트로) - CRAZY SEXY COOL (니가 불어와) Lyrics [Color CodedHanRomEng].mp3", "../JukeBoxSongs/[ COLOR CODED LYRICS ] ASTRO - INNOCENTFIRST LOVE ( 아스트로- 픗사랑 ) [ HANROMENG ] AUDIO BASED.mp3"];
+var astroSongs = ["Always You", "All Night", "Crazy Sexy Cool", "Innocent First Love"];
 
-var chainsmokers = [];
-var chainsmokersSongs = [];
+var chainsmokers = ["../JukeBoxSongs/The Chainsmokers - Bloodstream (Audio).mp3", "../JukeBoxSongs/The Chainsmokers - Break Up Every Night (Audio).mp3", "../JukeBoxSongs/The Chainsmokers - It Won't Kill Ya ft. Louane (Audio).mp3", "../JukeBoxSongs/The Chainsmokers - Wake Up Alone ft. Jhené Aiko (Audio).mp3"];
+var chainsmokersSongs = ["Bloodstream", "Break Up Every Night", "It Won't Kill Ya ft. Louane", "Wake Up Alone ft. Jhené Aiko"];
 
-var migos = [];
-var migosSongs = [];
+var migos = ["../JukeBoxSongs/Brown Paper Bag.mp3", "../JukeBoxSongs/Migos - Call Casting [CLEAN VERSION].mp3", "../JukeBoxSongs/Migos - What It Do.mp3", "../JukeBoxSongs/Migos ft. Gucci Mane Slippery (clean).mp3"];
+var migosSongs = ["Brown Paper Bag", "Call Casting", "What It Do", "Slippery ft. Gucci Mane"];
 
-var u2 = [];
-var u2Songs = [];
+var u2 = ["../JukeBoxSongs/Book Of Your Heart.mp3", "../JukeBoxSongs/Love Is Bigger Than Anything In Its Way.mp3", "../JukeBoxSongs/U2 - Landlady.mp3", "../JukeBoxSongs/U2 - Youre The Best Thing About Me (Lyric Video).mp3"];
+var u2Songs = ["Book Of Your Heart", "Love Is Bigger Than Anything In Its Way", "Landlady", "You're The Best Thing About Me"];
 
 //2018
 
-var drake = [];
-var drakeSongs = [];
+var drake = ["../JukeBoxSongs/In My Feelings.mp3", "../JukeBoxSongs/Drake - After Dark (Lyrics).mp3", "../JukeBoxSongs/Drake - Ratchet Happy Birthday (OFFICIAL).mp3", "../JukeBoxSongs/Nonstop.mp3"];
+var drakeSongs = ["In My Feelings", "After Dark", "Ratchet Happy Birthday", "Nonstop"];
 
-var post = [];
-var postSongs = [];
+var post = ["../JukeBoxSongs/Sunflower (Spider-Man Into the Spider-Verse).mp3", "../JukeBoxSongs/Spoil My Night.mp3", "../JukeBoxSongs/Jonestown (Interlude).mp3", "../JukeBoxSongs/Rich & Sad.mp3"];
+var postSongs = ["Sunflower", "Spoil My Night", "Jonestown", "Rich and Sad"];
 
-var xxx = [];
-var xxxSongs = [];
+var xxx = ["../JukeBoxSongs/before I close my eyes.mp3", "../JukeBoxSongs/the remedy for a broken heart (why am I so in love).mp3", "../JukeBoxSongs/XXXTENTACION - Moonlight (clean).mp3", "../JukeBoxSongs/XXXTENTACION - changes.mp3"];
+var xxxSongs = ["Before I Close My Eyes", "The Remedy For a Broken Heart", "Moonlight", "Changes"];
 
-var camila = [];
-var camilaSongs = [];
+var camila = ["../JukeBoxSongs/Camila Cabello - Havana (Official Live Audio).mp3", "../JukeBoxSongs/Inside Out.mp3", "../JukeBoxSongs/Camila Cabello - Into It (Official Audio).mp3", "../JukeBoxSongs/Camila Cabello ft. Pharrell - Sangria Wine (Official Audio).mp3"];
+var camilaSongs = ["Havana", "Inside Out", "Into It", "Sangria Wine ft. Pharrell"];
 
-var dua = [];
-var duaSongs = [];
+var dua = ["../JukeBoxSongs/Calvin Harris, Dua Lipa - One Kiss (Official Video).mp3", "../JukeBoxSongs/Silk City, Dua Lipa - Electricity (Lyrics) ft. Diplo, Mark Ronson.mp3", "../JukeBoxSongs/New Rules.mp3", "../JukeBoxSongs/IDGAF.mp3"];
+var duaSongs = ["Calvin Harris - One Kiss ft. Dua Lipa", "Silk City, Dua Lipa - Electricity ft. Diplo, Mark Ronson", "New Rules", "IDGAF"];
 
 //2019
 
-var billie = [];
-var billieSongs = [];
+var billie = ["../JukeBoxSongs/listen before i go.mp3", "../JukeBoxSongs/Billie Eilish - When I Was Older (Lyrics).mp3", "../JukeBoxSongs/Billie Eilish - you should see me in a crown (Vertical Video).mp3", "../JukeBoxSongs/Billie Eilish - bad guy (Official Audio).mp3"];
+var billieSongs = ["Listen Before I Go", "When I Was Older", "You Should See Me In A Crown", "Bad Guy"];
 
-var jonas = [];
-var jonasSongs = [];
+var jonas = ["../JukeBoxSongs/Sucker.mp3", "../JukeBoxSongs/Cool.mp3", "../JukeBoxSongs/Strangers.mp3", "../JukeBoxSongs/Hesitate.mp3"];
+var jonasSongs = ["Sucker", "Cool", "Strangers", "Hesitate"];
 
-var panic = [];
-var panicSongs = [];
+var panic = ["../JukeBoxSongs/High Hopes.mp3", "../JukeBoxSongs/ME! (feat. Brendon Urie of Panic! At The Disco).mp3", "../JukeBoxSongs/Death of a Bachelor.mp3", "../JukeBoxSongs/I Write Sins Not Tragadies- Panic! At The Disco.mp3"];
+var panicSongs = ["High Hopes", "Taylor Swift - ME! ft. Panic at the Disco and Brendon Urie", "Death of a Bachelor", "I Write Sins Not Tragadies"];
 
-var cardi = [];
-var cardiSongs = [];
+var cardi = ["../JukeBoxSongs/Maroon 5, Cardi B - Girls Like You (Lyrics).mp3", "../JukeBoxSongs/Bruno Mars ft. Cardi B - Finesse (Lyrics).mp3", "../JukeBoxSongs/I Like It.mp3", "../JukeBoxSongs/Please Me.mp3"];
+var cardiSongs = ["Girls Like You - Maroon 5 and Cardi B", "Bruno Mars - Finesse ft. Cardi B  ", "I Like It", "Please Me"];
 
-var dj = [];
-var djSongs = [];
+var dj = ["../JukeBoxSongs/You Stay.mp3", "../JukeBoxSongs/DJ Khaled - Higher (Audio) ft. Nipsey Hussle, John Legend.mp3", "../JukeBoxSongs/DJ Khaled - Holy Ground (Audio) ft. Buju Banton.mp3", "../JukeBoxSongs/DJ Khaled - Thank You (Audio) ft. Big Sean.mp3"];
+var djSongs = ["You Stay", "Higher ft. Nipsey Hussle and John Legend", "Holy Ground ft. Buju Banton", "Thank You ft. Big Sean"];
 
 //1980
 
@@ -406,6 +406,8 @@ if (currentArtist == "lionelRichie") {
         sourceNode.setAttribute("src", lionelRichie[i]);
         sourceNode.setAttribute("type", "audio/mpeg");
 
+        var imgNode = document.createElement("IMG");
+        
         var h2Node = document.createElement("H2");
         h2Node.innerHTML = lionelrichieSongs [i];
 
@@ -4002,7 +4004,7 @@ if (currentArtist == "shawn") {
         sourceNode.setAttribute("type", "audio/mpeg");
 
         var h2Node = document.createElement("H2");
-        h2Node.innerHTML = shawn [i];
+        h2Node.innerHTML = shawnSongs [i];
 
         divNode.appendChild(h2Node);
     
@@ -4021,7 +4023,7 @@ if (currentArtist == "future") {
     document.querySelector("title").innerHTML = "Future";
     document.querySelector(".back").innerHTML = "<a href = 'sixteen.html'> Back </a>";
     document.querySelector(".title").innerHTML = "Future";
-    document.querySelector(".century").innerHTML = "Adele's Hits";
+    document.querySelector(".century").innerHTML = "Future's Hits";
 
     for (var i = 0; i < future.length; i++) {
 
@@ -4040,7 +4042,7 @@ if (currentArtist == "future") {
         sourceNode.setAttribute("type", "audio/mpeg");
 
         var h2Node = document.createElement("H2");
-        h2Node.innerHTML = future [i];
+        h2Node.innerHTML = futureSongs [i];
 
         divNode.appendChild(h2Node);
     
@@ -4365,7 +4367,7 @@ if (currentArtist == "post") {
 if (currentArtist == "xxx") {
 
     document.querySelector("title").innerHTML = "XXXTENTACION";
-    document.querySelector(".back").innerHTML = "<a href = 'eightteen.html'> Back </a>";
+    document.querySelector(".back").innerHTML = "<a href = 'eighteen.html'> Back </a>";
     document.querySelector(".title").innerHTML = "XXXTENTACION";
     document.querySelector(".century").innerHTML = "XXXTENTACION's Hits";
 
@@ -4403,7 +4405,7 @@ if (currentArtist == "xxx") {
 if (currentArtist == "camila") {
 
     document.querySelector("title").innerHTML = "Camila Cabello";
-    document.querySelector(".back").innerHTML = "<a href = 'seventeen.html'> Back </a>";
+    document.querySelector(".back").innerHTML = "<a href = 'eighteen.html'> Back </a>";
     document.querySelector(".title").innerHTML = "Camila Cabello";
     document.querySelector(".century").innerHTML = "Camila Cabello's Hits";
 
@@ -4441,7 +4443,7 @@ if (currentArtist == "camila") {
 if (currentArtist == "dua") {
 
     document.querySelector("title").innerHTML = "Dua Lipa";
-    document.querySelector(".back").innerHTML = "<a href = 'seventeen.html'> Back </a>";
+    document.querySelector(".back").innerHTML = "<a href = 'eighteen.html'> Back </a>";
     document.querySelector(".title").innerHTML = "Dua Lipa";
     document.querySelector(".century").innerHTML = "Dua Lipa's Hits";
 
@@ -4519,7 +4521,7 @@ if (currentArtist == "billie") {
 if (currentArtist == "jonas") {
 
     document.querySelector("title").innerHTML = "The Jonas Brothers";
-    document.querySelector(".back").innerHTML = "<a href = 'seventeen.html'> Back </a>";
+    document.querySelector(".back").innerHTML = "<a href = 'nineteen.html'> Back </a>";
     document.querySelector(".title").innerHTML = "The Jonas Brothers";
     document.querySelector(".century").innerHTML = "The Jonas Brothers's Hits";
 
@@ -4557,7 +4559,7 @@ if (currentArtist == "jonas") {
 if (currentArtist == "panic") {
 
     document.querySelector("title").innerHTML = "Panic at the Disco";
-    document.querySelector(".back").innerHTML = "<a href = 'seventeen.html'> Back </a>";
+    document.querySelector(".back").innerHTML = "<a href = 'nineteen.html'> Back </a>";
     document.querySelector(".title").innerHTML = "Panic at the Disco";
     document.querySelector(".century").innerHTML = "Panic at the Disco's Hits";
 
@@ -4595,7 +4597,7 @@ if (currentArtist == "panic") {
 if (currentArtist == "cardi") {
 
     document.querySelector("title").innerHTML = "Cardi B";
-    document.querySelector(".back").innerHTML = "<a href = 'seventeen.html'> Back </a>";
+    document.querySelector(".back").innerHTML = "<a href = 'nineteen.html'> Back </a>";
     document.querySelector(".title").innerHTML = "Cardi B";
     document.querySelector(".century").innerHTML = "Cardi B's Hits";
 
@@ -4633,7 +4635,7 @@ if (currentArtist == "cardi") {
 if (currentArtist == "dj") {
 
     document.querySelector("title").innerHTML = "DJ Khalid";
-    document.querySelector(".back").innerHTML = "<a href = 'seventeen.html'> Back </a>";
+    document.querySelector(".back").innerHTML = "<a href = 'nineteen.html'> Back </a>";
     document.querySelector(".title").innerHTML = "DJ Khalid";
     document.querySelector(".century").innerHTML = "DJ Khalid's Hits";
 

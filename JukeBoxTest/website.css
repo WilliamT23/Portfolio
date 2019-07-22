@@ -304,7 +304,7 @@ body {
     position: relative;
     text-decoration: underline;
     width: 200px;
-    margin: 30px 40px;
+    margin: 5px 40px;
     text-align: center;
     color: tan;
     background-color: pink;
@@ -319,7 +319,7 @@ body {
     position: relative;
     text-decoration: underline;
     width: 200px;
-    margin: 30px 40px;
+    margin: 5px 40px;
     text-align: center;
     color: lightblue;
     background-color: pink;
@@ -552,4 +552,29 @@ body {
 
     margin: 50px 100px;
     
+}
+
+.artist {
+
+    margin: 1px 20px;
+    border-radius: 25px;
+    height: 250px;
+    width: 250px;
+
+}
+
+.artistt {
+
+    margin: 1px 210px;
+    border-radius: 50px;
+    height: 250px;
+    width: 400px;
+
+}
+
+.artisttt {
+
+    margin: 1px 575px;
+    border-radius: 25px;
+
 }
