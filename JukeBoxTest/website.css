@@ -590,7 +590,7 @@ body {
 .artistsquare {
 
     margin: 1px 20px;
-    border-radius: 25px;
+    border-radius: 20px;
     height: 250px;
     width: 250px;
     border: solid white 3px;
@@ -599,36 +599,40 @@ body {
 
 .artisttsquare {
 
-    margin: 1px 210px;
-    border-radius: 50px;
+    margin: 1px 280px;
+    border-radius: 20px;
     height: 250px;
-    width: 400px;
+    width: 250px;
+    border: solid white 3px;
 
 }
 
 .artistttsquare {
 
-    margin: 1px 575px;
-    border-radius: 25px;
+    margin: 1px 560px;
+    border-radius: 20px;
+    height: 250px;
+    width: 250px;
     border: solid white 3px;
 
 }
 
 .artisttttsquare {
 
-    margin: 1px 210px;
-    border-radius: 50px;
+    margin: 1px 830px;
+    border-radius: 20px;
     height: 250px;
-    width: 400px;
+    width: 250px;
+    border: solid white 3px;
 
 }
 
 .artistttttsquare {
 
-    margin: 1px 1095px;
+    margin: 1px 1100px;
     border-radius: 20px;
     height: 250px;
-    width: 260px;
+    width: 250px;
     border: solid white 3px;
 
 }
@@ -638,7 +642,7 @@ body {
     margin: 1px 20px;
     border-radius: 25px;
     height: 250px;
-    width: 250px;
+    width: 300px;
     border: solid white 3px;
 
 }
@@ -662,10 +666,11 @@ body {
 
 .artisttttrect {
 
-    margin: 1px 210px;
+    margin: 1px 750px;
     border-radius: 50px;
+    border: solid white 3px;
     height: 250px;
-    width: 400px;
+    width: 390px;
 
 }
 
